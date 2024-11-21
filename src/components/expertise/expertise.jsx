@@ -5,7 +5,7 @@ import "./style/expertise.css"
 const Expertise = () => {
   return (
     <div className='row'>
-        <div className='title'><h1>My Expertise</h1></div>
+        <div className='title-in-row'><h1>My Expertise</h1></div>
         <div className='second-part'>
             <div className='languages'>
              <p>

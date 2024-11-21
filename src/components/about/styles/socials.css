@@ -12,11 +12,13 @@
 
 .social-icon {
 	font-size: 15px;
-	color: var(--secondary-color);
+	/* color: var(--secondary-color); */
+	color: #bcbcbe;
 }
 
 .social-text {
-	color: var(--secondary-color);
+	/* color: var(--secondary-color); */
+	color: #bcbcbe;
 	padding-left: 30px;
 	margin-top: -20px;
 	font-weight: 600;

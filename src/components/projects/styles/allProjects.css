@@ -8,6 +8,10 @@
 	margin-right: -35px;
 }
 
+.projects-title{
+	margin-top: 20px;
+}
+
 .all-projects-project {
 	width: calc(100% / 3);
 	box-sizing: border-box;

@@ -1,6 +1,7 @@
 @import "../../../data/styles.css";
 
 .project {
+	background-color: #1a1a1a;
 	mix-blend-mode: normal;
 	border-radius: 20px;
 	opacity: 0.8;
@@ -12,7 +13,7 @@
 }
 
 .project:hover {
-	background: #fafafa;
+	background-color: #1a1a1a;
 	opacity: 1;
 	transition: background-color 0.3s ease-in-out;
 }
@@ -23,6 +24,8 @@
 }
 
 .project-container {
+	background-color: #1a1a1a;
+	border-radius: 10px;
 	padding: 30px;
 }
 
@@ -44,7 +47,7 @@
 }
 
 .project-description {
-	color: var(--secondary-color);
+	color: #fff;;
 }
 
 .project-link {
