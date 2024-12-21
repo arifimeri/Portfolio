@@ -53,6 +53,12 @@
 	width: 100%;
 	border-radius: 10%;
 	/* transform: rotate(3deg); */
+	filter: drop-shadow(1px 1px 10px gray);
+	transition:0.4s;  
+}
+
+.about-image-wrapper:hover{
+	filter: drop-shadow(1px 1px 20px gray);
 }
 
 .about-image-wrapper img {

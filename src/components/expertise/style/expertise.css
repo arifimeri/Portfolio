@@ -44,8 +44,8 @@
 }
 
 .languages h3:hover{
-    background-color: #000;
-    color: #ffffff;
+    color: #000;
+    background-color: #ffffff;
 }
 
 @media(max-width:967px) {
