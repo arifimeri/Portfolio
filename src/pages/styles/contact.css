@@ -4,6 +4,10 @@
 	padding-top: 25px;
 }
 
+ a{
+	color: aqua;	
+}
+
 .contact-logo {
 	display: flex;
 	position: fixed;
