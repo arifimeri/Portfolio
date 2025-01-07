@@ -41,14 +41,14 @@ const INFO = {
 			link: "https://drinori-pvc.com/index.html",
 		},
 
-		{
-			title: "Doppio",
-			description:
-				"They combine exceptional service, delicious offerings, and a cozy ambiance to create unforgettable moments for you and your guests..",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
-			link: "/",
-		},
+		// {
+		// 	title: "Doppio",
+		// 	description:
+		// 		"They combine exceptional service, delicious offerings, and a cozy ambiance to create unforgettable moments for you and your guests..",
+		// 	logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+		// 	linkText: "View Project",
+		// 	link: "/",
+		// },
 	],
 };
 

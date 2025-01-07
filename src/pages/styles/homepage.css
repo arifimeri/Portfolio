@@ -34,6 +34,8 @@
 .homepage-first-area-right-side {
 	display: flex;
 	align-items: center;
+	width: 900px;
+
 }
 
 .homepage-image-container {
@@ -46,7 +48,7 @@
 	overflow: hidden;
 	border-radius: 10%;
 	 /* transform: rotate(3deg);  */
-	 filter: drop-shadow(1px 1px 10px gray);
+	 /* filter: drop-shadow(1px 1px 10px gray); */
 	 transition:0.4s;  
 }
 
