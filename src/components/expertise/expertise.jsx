@@ -18,6 +18,7 @@ const Expertise = () => {
             <h3>Javascript</h3>
             <h3>React</h3>
             <h3>Java</h3>
+             <h3>Spring boot</h3>
             <h3>Kotlin</h3>
             <h3>Wordpress</h3>
             <h3>Tailwind</h3>
