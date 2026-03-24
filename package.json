@@ -7,6 +7,10 @@
 		"email": "arifimeri.11@gmail.com",
 		"url": "https://tharindu.dev"
 	},
+	"engines": {
+    "node": "20.x",
+    "npm": "11.x"
+},
 	"license": "MIT",
 	"private": true,
 	"dependencies": {
