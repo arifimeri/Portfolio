@@ -14,7 +14,7 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Hello, I'm Arif Imeri, Frontend Developer",
+		title: "Hello, I'm Arif Imeri, Full stack Developer",
 		description:
 			"I specialize in crafting modern and responsive web interfaces that deliver seamless user experiences. With a passion for clean code and elegant design, I turn ideas into functional and visually appealing digital solutions. Let's build something amazing together!",
 	},
